@@ -1,0 +1,8 @@
+# TikTok Live Recorder
+# Python dependencies (auto-installed on first run)
+
+yt-dlp
+customtkinter
+pillow
+requests
+pystray
