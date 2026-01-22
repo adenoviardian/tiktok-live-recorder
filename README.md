@@ -25,7 +25,7 @@ TikTok Live Recorder is a **GUI (Graphical User Interface) application** that ma
 
 ## Screenshots
 
-<img width="654" height="535" alt="tlr" src="https://github.com/user-attachments/assets/68cfec12-2bd7-447d-b238-2999bd39c31f" />
+<img width="654" height="535" alt="tlr" src="https://github.com/user-attachments/assets/f7a36a77-63e4-4608-b0fb-0254ddc5f5ea" />
 
 ## Requirements
 
